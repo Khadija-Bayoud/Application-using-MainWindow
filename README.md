@@ -16,6 +16,7 @@ In this homework we are going to create main windows using Qt. The first mainwin
 ## SpreadSheet
 https://user-images.githubusercontent.com/72691265/146642715-dd51257d-f27e-483e-aa05-27867ae3ee8e.mp4
 
+
 ## Text Editor
 
 https://user-images.githubusercontent.com/72691265/146642872-359dd2c2-aae1-44e1-bd1f-eafd865c3365.mp4
